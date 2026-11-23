@@ -3,3 +3,4 @@ Java is a General Purpose Language
   Collections
   lambda expressions
   Multithreading
+  Arrays
