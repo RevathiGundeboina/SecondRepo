@@ -4,3 +4,4 @@ Java is a General Purpose Language
   lambda expressions
   Multithreading
   Arrays
+variables
