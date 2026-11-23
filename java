@@ -5,3 +5,4 @@ Java is a General Purpose Language
   Multithreading
   Arrays
 variables
+  identifiers
