@@ -3,7 +3,7 @@ Pandas
 list
 
 x=92
-y=3311
+y=33
 z=5
 w=90
 
